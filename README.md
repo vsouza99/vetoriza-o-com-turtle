@@ -1,1 +1,1 @@
-primeiro projeto vetorizando desenhos com modulo turtle python 
+primeiro projeto vetorizando um coração com modulo turtle python 
